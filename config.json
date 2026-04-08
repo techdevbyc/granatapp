@@ -1,5 +1,5 @@
 {
   "version": "1.0.5",
   "link": "https://github.com/techdevbyc/granatapp/releases/download/update/app-update.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 }
